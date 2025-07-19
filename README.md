@@ -1,4 +1,4 @@
-# Vrinda-Store-Data-Analysis (Interactive Dashboard creation using MS Excel)
+<img width="1343" height="551" alt="Screenshot 2025-07-19 102220" src="https://github.com/user-attachments/assets/de6dd1de-2007-4ab3-bc2a-16a84c26fde1" /># Vrinda-Store-Data-Analysis (Interactive Dashboard creation using MS Excel)
 ## Project Objective
 The Vrinda Store wants to creat an annual sales report for 2022. So that, the owner of the Vrinda store can understand their customer and grow more sales in 2023 & 2024.
 ## Dataset used 
@@ -18,4 +18,16 @@ The Vrinda Store wants to creat an annual sales report for 2022. So that, the ow
 -	Made sure data is consistent and clean with respect to data type, data format and values used.
 -	Created pivot table according to the question asked.
 -	Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+## Dashboard
+<img width="1343" height="551" alt="Screenshot 2025-07-19 102220" src="https://github.com/user-attachments/assets/c74b5893-7d78-4281-85cc-a5747ad98445" />
+## Project Insight
+-	Women customers are more likely to buy product compared to men (~65%).
+-	The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
+-	The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
+-	The maximum number of products customers orders from Amazon, Flipkart and Myntra channels.
+-	More than 90% of the products delivered.
+## Final Conclusion:
+To improve the sales of Vrinda Store, a Stategic marketing plan focused on women aged 30-49 years residing in Maharashtra, Karnataka and Uttar Pradesh should be implemented. This demographic represents a key consumer segment, as they often make signigicant household and lifestyle purchases. The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention.
+
+
 
