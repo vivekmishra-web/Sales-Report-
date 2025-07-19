@@ -1,6 +1,6 @@
-<img width="1343" height="551" alt="Screenshot 2025-07-19 102220" src="https://github.com/user-attachments/assets/de6dd1de-2007-4ab3-bc2a-16a84c26fde1" /># Vrinda-Store-Data-Analysis (Interactive Dashboard creation using MS Excel)
+# Vrinda-Store-Data-Analysis (Interactive Dashboard creation using MS Excel)
 ## Project Objective
-The Vrinda Store wants to creat an annual sales report for 2022. So that, the owner of the Vrinda store can understand their customer and grow more sales in 2023 & 2024.
+The Vrinda Store wants to create an annual sales report for 2022. So that, the owner of the Vrinda store can understand their customer and grow more sales in 2023 & 2024.
 ## Dataset used 
 -	<a href="https://github.com/vivekmishra-web/Sales-Report-/blob/main/Vrinda%20Store%20Data%20Project.xlsx">Dataset</a>
 ## Question (KPIs)
@@ -19,7 +19,8 @@ The Vrinda Store wants to creat an annual sales report for 2022. So that, the ow
 -	Created pivot table according to the question asked.
 -	Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 ## Dashboard
-<img width="1343" height="551" alt="Screenshot 2025-07-19 102220" src="https://github.com/user-attachments/assets/c74b5893-7d78-4281-85cc-a5747ad98445" />
+<img width="1343" height="551" alt="Screenshot 2025-07-19 102220" src="https://github.com/user-attachments/assets/9b171feb-1fee-46ef-909b-44705549a41a" />
+
 ## Project Insight
 -	Women customers are more likely to buy product compared to men (~65%).
 -	The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
